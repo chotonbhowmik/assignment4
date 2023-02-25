@@ -81,8 +81,7 @@ function findSecondLargestNumber($number)
 $number = array(1, 2, 3, 4, 5, 6,10,16);
 $secondLargest = findSecondLargestNumber($number);
 echo "The second largest number in the array is: " . $secondLargest;
-$arr = array("apple", "banana", "cherry");
-echo implode(", ", $arr);
+
 
 
 ?>
